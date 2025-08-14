@@ -1,6 +1,6 @@
 # LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync
 
-- [x] Cog Fast Push Compatible
+- [x] Cog Fast Push Compatible 
 
 <div align="center">
 
